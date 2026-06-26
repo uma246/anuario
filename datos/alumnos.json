@@ -1,4 +1,4 @@
-```json
+
 {
 "1A": [
   { "foto": "foto001.webp", "tieneFoto": true, "nombre": "Juan", "frase": "Hola soy Juan" },
@@ -345,5 +345,5 @@
   { "foto": "foto026.webp", "tieneFoto": true, "nombre": "", "frase": "" }
 ]
 }
-```
+
 
