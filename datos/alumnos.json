@@ -1,7 +1,7 @@
 ```json
 {
 "1A": [
-  { "foto": "foto001.webp", "tieneFoto": true, "nombre": "", "frase": "" },
+  { "foto": "foto001.webp", "tieneFoto": true, "nombre": "Juan", "frase": "Hola soy Juan" },
   { "foto": "foto002.webp", "tieneFoto": true, "nombre": "", "frase": "" },
   { "foto": "foto003.webp", "tieneFoto": true, "nombre": "", "frase": "" },
   { "foto": "foto004.webp", "tieneFoto": true, "nombre": "", "frase": "" },
